@@ -1,6 +1,5 @@
 # Advanced-Excel-Analytics
 Advanced Excel Analytics with Charting and Pivot Tables
-This is my homework repo
 
 
 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
