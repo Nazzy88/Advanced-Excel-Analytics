@@ -22,12 +22,13 @@ There is a 54% chance of success doing Kickstarter campaigns which I would place
  ![Category Stats](Images/CategoryStats.PNG)
  
 * Sub-Category Analysis:
- ** Observing the individual sub-categories within the KickStarter campaigns we can see interesting patterns of outcomes.
+
+  * Observing the individual sub-categories within the KickStarter campaigns we can see interesting patterns of outcomes.
 Firstly, the sub-categories with 100% success rates are: classical music, documentaries, electronic music, hardware, metal, non-fiction, pop, radio & podcasts, rock, shorts, small batch, table top games and television.  There is opportunity for growth in pop, electronic, classical and metal since there were no cancelations or failures.  The top performing subcategory for Theater is plays.  The top performing subcategories for Film & Video is documentary with potentional to grow in shorts and television since they didn’t have any cancelations of failures. There is a dip in interaction from customers in Dec.  This is due to holiday spending.  I see that there is increase between the month of April and May, this could be due to people receiving bonuses and people are willing to spend more.
 
- ** Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web.
+ * Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web.
  
-** A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%.
+ * A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%.
   ![Subcategory Stats](Images/SubcategoryStats.PNG)
   
 ## Seasonality:
